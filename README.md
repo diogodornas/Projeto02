@@ -14,5 +14,5 @@ Projeto construído juntamente com estudo de FIGMA.
 
 ## Contato
 
-diogoduraes.ef@hotmail.com
+diogoduraes.ef@hotmail.com <br>
 @dioguinho 
